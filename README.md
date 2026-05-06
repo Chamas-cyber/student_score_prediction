@@ -137,9 +137,6 @@ If you want to improve this project:
 3. Make your changes.
 4. Open a pull request.
 
-## License
-
-Add a license here if you want other people to reuse your project.
 
 ## Author
 
